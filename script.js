@@ -18,5 +18,5 @@ function compute() {
 }
 
 function showRate(x) {
-    document.getElementById("intRate").innerHTML = x; //dynamically shows the rate beside the slider
+    document.getElementById("intRate").innerHTML = x + "%"; //dynamically shows the rate beside the slider
 }
